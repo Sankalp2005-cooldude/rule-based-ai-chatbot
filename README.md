@@ -59,3 +59,5 @@ Bot: Goodbye! Have a great day.
 
 Sankalp Agnihotri
 Artificial Intelligence / Machine Learning Student
+## Screenshot
+![Chatbot Demo](screenshots/demo.png)
